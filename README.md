@@ -1,5 +1,14 @@
 ## dotnetGlobalError
-### Estrutura detratamnto de erro global usando midleware e filter
+### Estrutura de tratamento de erro global usando midleware e filter
+
+```
+Middleware
+Exception Filters
+Try-Catch
+Ciclo de vida do pipeline e execução dos Middlewares
+RequestDelegate next / await next(context);
+```
+
 
 Intenção:Criar uma estrutura capaz de lidar com todos os erros de uma aplicação
 de forma centralizada.

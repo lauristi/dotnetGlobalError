@@ -1,5 +1,6 @@
 ## dotnetGlobalError
-### Estrutura de tratamento de erro global usando midleware e filter
+### Estrutura de tratamento de erro global 
+#### usando mMddleware e Exception Filters
 
 ```
 Middleware
@@ -17,7 +18,7 @@ Problema: Não é possivel criar um middleware para lidar com erros em endpoints
 Solução criar um serviço de tratameno de erro que pode ser consumido por middleware e uma classe
 para lidar com "exception filters"
 
-Atenção!!!
+#### Atenção!!!
 Exemplo não funcional, apenas para estudo estrutural do código
 Para melhorias futuras.
 

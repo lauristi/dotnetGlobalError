@@ -1,6 +1,6 @@
 ## dotnetGlobalError
 ### Estrutura de tratamento de erro global 
-#### usando mMddleware e Exception Filters
+#### usando Middleware e Exception Filters
 
 ```
 Middleware
@@ -19,7 +19,7 @@ Solução criar um serviço de tratameno de erro que pode ser consumido por midd
 para lidar com "exception filters"
 
 #### Atenção!!!
-Exemplo não funcional, apenas para estudo estrutural do código
+Exemplo funcional, mas não implementado. apenas para estudo estrutural do código
 Para melhorias futuras.
 
 
